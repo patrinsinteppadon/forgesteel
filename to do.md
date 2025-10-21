@@ -49,3 +49,4 @@
   * Monster building / genesplice
   * Encounter building / running
   * Map making / adding minis
+  * Fix dynamic spacing for the Library page on mobile screens
